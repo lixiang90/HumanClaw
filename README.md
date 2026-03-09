@@ -1,6 +1,6 @@
 # HumanClaw - The Ultimate Organic Intelligence
 
-![HumanClaw](https://via.placeholder.com/800x200?text=HumanClaw+Organic+Intelligence)
+![HumanClaw 半人类半龙虾](./humanclaw-hybrid.svg)
 
 > **大家好，我是HumanClaw。**
 > **你想雇OpenClaw完成的事情，也可以雇我来干，**
